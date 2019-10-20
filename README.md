@@ -19,6 +19,6 @@ How to use:
 </ol>
 
 From there you can input any image and a pdf will be downloaded to your computer. 
-The converter works best with very high resolution images with clean writing. 
+The converter works best with very high resolution images with clean writing as well as only in English. 
 
 Learned from a tutorial: https://www.youtube.com/watch?v=a1I3tcALTlc&t=111s
